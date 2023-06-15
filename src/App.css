@@ -3,12 +3,12 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-color: bisque;
+  background-color:#656364;
   border-radius: 13px;
 }
 
 body {
-  background-color: #656364;
+  background-color: rgba(27, 26, 26, 0.918);
 }
 .App {
   text-align: center;
@@ -20,15 +20,16 @@ body {
 
 .App p {
   cursor: pointer;
+  color: rgb(182, 187, 187);
 }
 .App p:hover {
-  background-color: rgba(114, 109, 109, 0.123);
+  background-color: rgba(110, 12, 12, 0.37); ;
   border-radius: 15px;
   padding-top: 3px;
   padding-bottom: 3px;
 }
 .details:hover {
-background-color:rgba(116, 108, 108, 0.37); ;
+background-color:rgba(110, 12, 12, 0.37); ;
 padding-left: 15px;
 padding-right: 15px;
 padding-top: 5px;
@@ -39,8 +40,10 @@ border-radius: 10px;
   list-style: none;
   text-align: center;
   cursor: default;
+  color:rgb(182, 187, 187) ;
 }
 .details h2 {
   cursor: default;
   font-family: 'Courier New', Courier, monospace;
+  color:rgb(182, 187, 187) ;
 }
