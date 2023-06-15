@@ -7,6 +7,9 @@
   border-radius: 13px;
 }
 
+body {
+  background-color: #656364;
+}
 .App {
   text-align: center;
  padding: 15px;
